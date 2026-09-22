@@ -1,0 +1,23 @@
+{
+  "name": "few_files_vfs",
+  "root": {
+    "type": "dir",
+    "children": {
+      "readme.txt": {
+        "type": "file",
+        "content": "SGVsbG8gd29ybGQh",
+        "owner": "user"
+      },
+      "docs": {
+        "type": "dir",
+        "children": {
+          "note.txt": {
+            "type": "file",
+            "content": "Tm90ZQ==",
+            "owner": "user"
+          }
+        }
+      }
+    }
+  }
+}
