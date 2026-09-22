@@ -1,0 +1,2 @@
+vfs_path: vfs/few_files.json
+startup_script: scripts/test_all.txt
